@@ -1,13 +1,13 @@
 ---
-title: K通知読み上げ プライバシーポリシー
+title: 通知読み上げ プライバシーポリシー
 ---
 
-# K通知読み上げ プライバシーポリシー
+# 通知読み上げ プライバシーポリシー
 
 最終更新日: 2026年10月23日
 提供者: kkmario9
 
-「K通知読み上げ」(以下「本アプリ」)は、端末に届いた通知の内容を音声で読み上げるアプリです。
+「通知読み上げ」(以下「本アプリ」)は、端末に届いた通知の内容を音声で読み上げるアプリです。
 本アプリは、利用者の情報を収集・保存・送信しません。以下に、本アプリが何を扱うかを説明します。
 
 ## 1. 本アプリが扱う情報
@@ -54,7 +54,7 @@ title: K通知読み上げ プライバシーポリシー
 
 Last updated: October 23, 2026. Provider: kkmario9.
 
-"K通知読み上げ" (the app) reads incoming notifications aloud using the device's text-to-speech engine.
+"通知読み上げ" (the app) reads incoming notifications aloud using the device's text-to-speech engine.
 
 - **Notification content** (app name, title, text) is read only after the user grants Notification Access, is used only to speak it aloud on the device, and is **not stored or transmitted**.
 - **Settings** (on/off, per-app reading mode, speech rate, pitch, voice) are stored locally on the device only.
